@@ -11,4 +11,6 @@ but modified, and adding extra function responses for datalogger mode configurat
 https://github.com/G6EJD/ESP32-ESP8266-File-Download-Upload-Delete-Stream-and-Directory
 https://github.com/KrisKasprzak/ESP32_WebPage
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/e52358e81cc5d83970b2d3541e2052e2bb6a2547/base.jpg)?raw=true)
+![alt text](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/dbe46a4e2241443fc03591eb1c9a7ecf2ec96bc6/base.jpg?raw=true)
+
+
