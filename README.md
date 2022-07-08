@@ -10,3 +10,5 @@ i want to give credits to KrisKasprzak and G6EJD - David youtube channels to the
 but modified, and adding extra function responses for datalogger mode configuration parameters.
 https://github.com/G6EJD/ESP32-ESP8266-File-Download-Upload-Delete-Stream-and-Directory
 https://github.com/KrisKasprzak/ESP32_WebPage
+
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/e52358e81cc5d83970b2d3541e2052e2bb6a2547/base.jpg)?raw=true)
