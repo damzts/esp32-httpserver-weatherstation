@@ -6,6 +6,14 @@ the device is mainly a datalogger saving readings to a csv file, but when a swit
 in which you can configure the datalogger parameters such as measuring time, file name and adjust rtc actual time, to keep a precise timestamp, but also explore sd card
 content and download the csv file with previous readings.
 
+//specific documentation can be found on my notion webpage only available in spanish.
+https://totorres.notion.site/Estaci-n-Meteorol-gica-639292cc71334025ba0a3413dd5eecc8
+
+
+
+
+
+
 i want to give credits to KrisKasprzak and G6EJD - David youtube channels to the code provided, the http webserv functions and appereance is based on theirs
 but modified, and adding extra function responses for datalogger mode configuration parameters.
 https://github.com/G6EJD/ESP32-ESP8266-File-Download-Upload-Delete-Stream-and-Directory
