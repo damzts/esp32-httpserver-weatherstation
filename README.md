@@ -23,7 +23,8 @@ https://github.com/KrisKasprzak/ESP32_WebPage
 
 ![alt text](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/5f6b85e8efd561f4cf38ee3821db38a5fa890541/webpageold.png?raw=true)
 
-![alt text](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/5f6b85e8efd561f4cf38ee3821db38a5fa890541/csvfileformat.png?raw=true)
+![alt text](https://github.com/41R-M45T3R/esp32-httpserver-weatherstation/blob/32aca7f44d9e156872c8ab7c01d9c66fc3a9f8e5/csvfileformat.png?raw=true)
+
 
 
 
